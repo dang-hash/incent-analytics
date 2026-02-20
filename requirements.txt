@@ -1,0 +1,6 @@
+streamlit
+snowflake-connector-python
+gspread
+google-auth
+pandas
+plotly
